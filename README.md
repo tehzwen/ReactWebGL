@@ -1,3 +1,7 @@
+An example repository showing how we can integrate WebGL into a React frontend by creating a custom WebGL Canvas and using custom classes to be rendered onto it.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
